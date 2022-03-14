@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm ElijahKz</h1>
 <h3 align="center">I’m interested in development and interaction with technologies in multiple devices, displaying multimedia experiences in desktop environments as well as web environments,through human-computer interaction techniques.</h3>
 
-- 🌱 I’m currently learning data science and software programming **Ionic, React, python, Java**
+- 🔭 I’m currently working on Web projects and Ionic **Mobile, and Web**
 
-- 👨‍💻 All of my projects are available at [www.maxprojectx.sytes.net](www.maxprojectx.sytes.net)
+- 🌱 I’m currently working on data science and software programming **Ionic, React, python, Java**
 
-- 📫 How to reach me **milmaxje_11@hotmail.com**
+- 👯 I’m looking to collaborate on opensource project with a big technologie impact **Humhub project**
+
+- 👨‍💻 All of my projects are available at [maxprojectx.sytes.net](maxprojectx.sytes.net)
+
+- 📝 As soon as possible, i'll start to show something interesting. . wait for it!! [maxprojectx.sytes.net](maxprojectx.sytes.net)
+
+- 📫 How to reach me? chat me up at **milmaxje_11@hotmail.com**
+
+- 📄 Know about my experiences in my websites [maxprojectx.sytes.net](maxprojectx.sytes.net)
+
+- ⚡ Fun fact **I think I'm happy!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
