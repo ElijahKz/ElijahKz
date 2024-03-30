@@ -7,15 +7,15 @@
 
 - 👯 I’m looking to collaborate on opensource project with a big technologie impact **Humhub project**
 
-- 👨‍💻 All of my projects are available at [maxprojectx.sytes.net](maxprojectx.sytes.net)
+- 👨‍💻 All of my projects are available at [https://devmax-cv.vercel.app/](https://devmax-cv.vercel.app/)
 
-- 📝 As soon as possible, i'll start to show something interesting. . wait for it!! [maxprojectx.sytes.net](maxprojectx.sytes.net)
+- 📝 As soon as possible, i'll start to show something interesting. . wait for it!! [https://devmax-cv.vercel.app/](https://devmax-cv.vercel.app/)
 
 - 🌱 My hobbies are playing basketball and running outside **🌱🌱🌱**
 
 - 📫 How to reach me? chat me up at **aliaseldev@gmail.com**
 
-- 📄 Know about my experiences in my websites [maxprojectx.sytes.net](maxprojectx.sytes.net)
+- 📄 Know about my experiences in my websites [https://devmax-cv.vercel.app/](https://devmax-cv.vercel.app/)
 - 📄 Vagrant Cloud https://app.vagrantup.com/
 - ⚡ Fun fact **I think I'm happy!!**
 
